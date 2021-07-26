@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Challenge 10",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.2",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AZBDaniel/team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AZBDaniel/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/AZBDaniel/team-profile-generator#readme"
+}
